@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AwnishRanjan
-- 👀 I’m interested in   DATA SCIENCE/MACHINE LEARNING
-- 🌱 I’m currently working on MLops and Finetuning Techniques of Large Models.
-- 💞️ I’m looking to collaborate on Research.
-- 📫 E-MAIL : ranjanawnish07@gmail.com
-
-
+Hi, I'm Awnish Ranjan
+Passionate about Data Science and Machine Learning
+Currently exploring MLOps and Fine-Tuning Techniques for Large Language Models
+Always open to research collaborations and impactful AI/ML projects
+Contact: ranjanawnish07@gmail.com
