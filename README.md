@@ -1,5 +1,1 @@
-Hi, I'm Awnish Ranjan
-Passionate about Data Science and Machine Learning
-Currently exploring MLOps and Fine-Tuning Techniques for Large Language Models
-Always open to research collaborations and impactful AI/ML projects
-Contact: ranjanawnish07@gmail.com
+I'm Awnish Ranjan, an enthusiast in Data Science and Machine Learning with a strong focus on building intelligent and scalable systems. Currently, I’m delving into MLOps practices and advanced fine-tuning techniques for large language models. I'm passionate about research and always open to collaborating on impactful AI/ML projects. Feel free to reach out to me at ranjanawnish07@gmail.com.
